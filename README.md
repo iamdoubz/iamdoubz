@@ -18,6 +18,6 @@ Basically I find cool stuff (to me that is) and make a website. Here is a <a hre
 
 # 💬 Contact
 
-<a href="https://chat.dou.bet"><img src="https://img.shields.io/matrix/beers:dou.bet.svg?server_fqdn=dou.bet" alt="Matrix beer vent machine" /></a>
+<a href="https://chat.dou.bet/#/room/#beers:dou.bet"><img src="https://img.shields.io/matrix/beers:dou.bet.svg?server_fqdn=dou.bet" alt="Matrix beer vent machine" /></a>
 
 Come vent with me about anything and everything.
