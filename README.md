@@ -16,6 +16,11 @@ Basically I find cool stuff (to me that is) and make a website. Here is a <a hre
 
 </div>
 
+# 👄 Quotes
+
+- The ships hung in the sky in much the same way that bricks don't.
+- I see myself as an intelligent, sensitive human, with the soul of a clown which forces me to blow it at the most important moments.
+
 # 💬 Contact
 
 <a href="https://chat.dou.bet/#/room/#beers:dou.bet"><img src="https://img.shields.io/matrix/beers:dou.bet.svg?server_fqdn=dou.bet" alt="Matrix beer vent machine" /></a>
