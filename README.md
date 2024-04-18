@@ -6,9 +6,15 @@ Hi. I am doubz. Nice to meet a fellow weary traveler number <img src="https://ko
 
 Basically I find cool stuff (to me that is) and make a website. Here is a <a href="https://chat.dou.bet">quick list</a> of everything I have running.
 
-# 🔥 Github stats
+# 🔥 Stats
+
+<div align="center">
+
+![Folding graphic for DOUBET](https://dou.bet/xoc1 "Folding graphic for DOUBET")
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamdoubz&theme=dark&background=282828)](https://git.io/streak-stats)
+
+</div>
 
 # 💬 Contact
 
