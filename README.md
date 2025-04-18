@@ -20,6 +20,7 @@ Basically I find cool stuff (to me that is) and make a website. Here is a <a hre
 
 - The ships hung in the sky in much the same way that bricks don't.
 - I see myself as an intelligent, sensitive human, with the soul of a clown which forces me to blow it at the most important moments.
+- Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe.
 
 # 💬 Contact
 
