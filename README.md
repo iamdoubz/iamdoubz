@@ -4,13 +4,13 @@ Hi. I am doubz. Nice to meet a fellow weary traveler number <img src="https://ko
 
 # ⚡ Services
 
-Basically I find cool stuff (to me that is) and make a website. Here is a <a href="https://chat.dou.bet">quick list</a> of everything I have running.
+Basically I find cool stuff (to me that is) and make a website. Here is a <a href="https://daniel.dou.bet/p/">quick list</a> of everything I have running.
 
 # 🔥 Stats
 
 <div align="center">
 
-![Folding graphic for DOUBET](https://dou.bet/xoc1 "Folding graphic for DOUBET")
+![Folding graphic for DOUBET](https://folding.extremeoverclocking.com/sigs/sigimage.php?u=1239767&c1=ff1a1a&c2=050505&c3=050505&c4=bfbfbf&c5=ffffff&bg=1 "Folding graphic for DOUBET")
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamdoubz&theme=dark&background=282828)](https://git.io/streak-stats)
 
