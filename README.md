@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-Hi. I am doubz. Nice to meet a fellow weary traveler number <img src="https://komarev.com/ghpvc/?username=iamdoubz&style=flat-square&color=blue" alt="Visitor counter" />. I hope I helped you learn something new today.
+Hi. I am doubz. Nice to meet a fellow weary traveler number <img src="https://komarev.com/ghpvc/?username=iamdoubz&style=plastic&color=0d0d0d&label=+" alt="Visitor counter" />. I hope I helped you learn something new today.
 
 # ⚡ Services
 
