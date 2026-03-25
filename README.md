@@ -12,7 +12,7 @@ Basically I find cool stuff (to me that is) and make a website. Here is a <a hre
 
 ![Folding graphic for DOUBET](https://folding.extremeoverclocking.com/sigs/sigimage.php?u=1239767&c1=ff1a1a&c2=050505&c3=050505&c4=bfbfbf&c5=ffffff&bg=1 "Folding graphic for DOUBET")
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamdoubz&theme=dark&background=282828)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamdoubz&theme=highcontrast&hide_border=true&border_radius=15&exclude_days=Sun%2CSat&card_width=505&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
 
